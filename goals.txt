@@ -9,3 +9,5 @@
 
 
 2. Add the username associated with each comment to the comment text.
+
+- find the username based on the user Id attached to the content.
